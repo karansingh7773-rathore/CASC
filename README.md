@@ -1,6 +1,8 @@
 ## CASC: The Contextual-Aware Security Cam 
 CASC isn't just another security camera; it's an intelligent security analyst. While traditional systems just show you a video feed, CASC watches the feed, understands what's happening, and describes it to you in plain English. It transforms your security camera from a passive recorder into an active, conversational security partner.
 
+some commits may not work on your machine
+
 This system goes beyond simple motion alerts by analyzing the context of an event, allowing you to get immediate, detailed insights and even ask follow-up questions.
 
 # What Makes CASC Different?
